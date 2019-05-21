@@ -1,0 +1,94 @@
+.main {
+  background-color: black;
+}
+H1 {
+  PADDING-TOP: 5PX;
+ text-align:center;
+ background-color:rgba(236, 231, 231, 0.589);
+}
+
+div {
+    width:1180px;
+    border: 40px black;
+    padding: 300px;
+    margin: 70px;
+    PADDING-TOP:500PX;
+    
+  background-color:lightgray;
+}
+
+.Header {
+ position:absolute;
+  bottom:465px;
+  right:515px;
+  font-size:23px;
+}
+.ENGLAND {
+  POSITION:ABSOLUTE;
+  top:230px;
+  RIGHT: 800PX;
+  font-size:20px;
+   font-weight:bold;
+}
+.FRANCE {
+  POSITION: ABSOLUTE;
+  top: 230px;
+  RIGHT: 690PX;
+  font-size:20px;
+  font-weight:bold;
+}
+.BELGIUM {
+  POSITION: ABSOLUTE;
+  RIGHT : 570PX;
+  TOP: 230PX;
+    font-size:20px;
+  font-weight:bold;
+}
+.CROATIA {
+  POSITION: ABSOLUTE;
+  RIGHT: 460PX;
+  TOP: 230PX;
+  font-size:20px;
+  font-weight:bold;
+}
+
+FORM {
+ POSITION:ABSOLUTE;
+  TOP:299PX;
+  RIGHT:640PX;
+  FONT-FAMILY: "bold" ;
+  FONT-SIZE:18px;
+  font-weight:bold;
+  
+  
+}
+
+input[type=text] {
+    width: 90%;
+    margin-right:40px;
+    padding: 12px 20px;
+    margin: 5px 0;
+  box-sizing: border-box;}
+
+form{
+position:absolute;
+  right:480px;
+  width: 400px;
+  
+  border-radius: 10px;
+  
+}
+input[type=submit]:hover {
+  background-color: gray;}
+
+input[type=submit] {
+    width:90%;
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size:25px;
+}
